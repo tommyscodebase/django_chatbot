@@ -1,6 +1,9 @@
 # Django Chatbot
 
-An interactive chatbot built with Django.  
+![Django Chatbot](./chatbot.jpg)
+
+## An interactive chatbot built with Django.
+
 Subscribe to [Tommy's Codebase](https://www.youtube.com/@tommys_codebase) on YouTube for more projects like this.
 
 Link to YouTube Video: [Modern Music Player](https://youtu.be/cxWebdREQIk)
