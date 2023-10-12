@@ -14,4 +14,4 @@ In this step-by-step tutorial, discover how to create a powerful chatbot with aw
 - ✅ Save your chats and resume conversations later
 - ✅ Stunning User Interface (UI) design
 - ✅ User-friendly Authentication and Registration
-  🚀 Dive into the world of chatbots and level up your Django skills! Watch now! 🔥
+- 🚀 Dive into the world of chatbots and level up your Django skills! Watch now! 🔥
